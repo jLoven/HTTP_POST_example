@@ -2,7 +2,7 @@
 //  http_post_exampleTests.swift
 //  http-post-exampleTests
 //
-//  Created by Jacquelyn Loven on 6/8/15.
+//  Created by Jackie Loven on 6/8/15.
 //  Copyright (c) 2015 Jackie Loven. All rights reserved.
 //
 
